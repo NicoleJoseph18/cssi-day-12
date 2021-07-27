@@ -9,8 +9,9 @@ input::placeholder {
 /* Card start*/
 .card {
   overflow: hidden;
-  background: yellow;
+  background: yellow
   /* color: var(--bg); */
+  
 }
 
 .card.large {
@@ -33,3 +34,4 @@ input::placeholder {
   color: ghostwhite;
   margin: 10px
 }
+
